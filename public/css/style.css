@@ -1,0 +1,15 @@
+.ahref {
+    color: #000000;
+    font-size: 25px;
+    border: none;
+    text-decoration: underline;
+}
+
+.bhref {
+    border: none;
+    background: none;
+}
+
+.home {
+    color: #000000;
+}
